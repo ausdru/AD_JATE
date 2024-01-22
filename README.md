@@ -1,1 +1,1 @@
-# AD_JATE
+# Text Editor Starter Code
